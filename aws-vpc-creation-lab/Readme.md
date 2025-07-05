@@ -146,6 +146,13 @@ A well-planned CIDR = fewer headaches later.
 
 ---
 
+## Architecture (Basic)
+
+![architectural-diagram](https://github.com/user-attachments/assets/01e1ec8e-6fe4-421c-b57c-12277bfa667d)
+
+
+---
+
 ## Author
 **Ali Afnan – AIOps | DevOps | Cloud | Cybersecurity**
 
