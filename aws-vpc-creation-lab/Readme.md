@@ -147,7 +147,7 @@ A well-planned CIDR = fewer headaches later.
 ---
 
 ## Author
-**Ali – AIOps | DevOps | Cloud | Cybersecurity**
+**Ali Afnan – AIOps | DevOps | Cloud | Cybersecurity**
 
 ---
 
